@@ -1,7 +1,7 @@
 # cssPractice
 cssPractice
 
-1. position
+# position
 
 
-relative안에서 absolute가 움직인다.
+  relative안에서 absolute가 움직인다.
